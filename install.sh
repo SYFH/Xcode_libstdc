@@ -43,3 +43,4 @@ fi
 cp ./device/libstdc++.* $xcode_device_path
 cp ./simulators/libstdc++.* $xcode_simulators_path
 cp ./runtime/libstdc++.* $xcode_runtime_path
+echo '安装完成'
